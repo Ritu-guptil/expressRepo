@@ -1,5 +1,5 @@
 {
-    "port": 9898,
+    "port": 9001,
     "host": "localhost",
     "database": "JAVA",
     "user": "dac",
